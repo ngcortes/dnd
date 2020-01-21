@@ -1,0 +1,24 @@
+;; This buffer is for text that is not saved, and for Lisp evaluation.
+;; To create a file, visit it with C-x C-f and enter text in its buffer.
+
+anders 21
+
+adger 20
+
+swarm of rats 19
+
+neraxis 18
+
+- dead wr1 15 hp 2
+
+
+wr2 14 hp 14
+
+
+erza 12
+sylvanias 12
+derval10 hp 16
+
+-(left combat) wr3 2 hp 12
+
+ildas 1
