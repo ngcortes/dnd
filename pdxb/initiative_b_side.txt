@@ -1,0 +1,49 @@
+initiative tracker
+
+Spike 21
+
+death save: s,
+
+Alex 17 hp -2
+
+death saves: s,f
+
+Anders 16
+
+Brigand 3/4 15
+
+B3: dead
+B4: dead
+
+Pluck(sleeping) 14 hp 20/20
+
+sleep rounds: 4
+
+Lareth 14 AC 17 hp 38
+
+spells 
+
+lvl 1 1/3
+lvl 2 1/3
+
+Phalanx(stable) 12 hp 3/10
+
+Brigand 1/2 11
+
+B1 hp 5
+B2 hp 7
+
+Captain 1/2 8
+
+C1 hp -5 hp (dead)
+C2 hp 4
+
+Warish 5
+
+Ilyana 4 hp 6/10
+
+
+Venvir 2
+
+
+round: 8

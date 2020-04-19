@@ -1,0 +1,31 @@
+(dead)penelope: 21 hp 7
+
+justice: 20 
+
+
+wererat4(weak): 19 hp 33
+
+agrias: 16
+
+(dead) wererat3(weak): 16 hp 3
+wererat5: 15 hp 33
+wererat6: 15 hp 33
+
+esther: 12
+
+
+guerd: 10
+
+lecrux: 10 hp 13 AC 15
+ slots (1st level) 1/3
+
+adger: 9
+
+
+zanzabar: 6
+
+
+wererat1(weak): 5 hp 20
+wererat2(weak): 3 hp 3 (speed -10 till round 3)
+
+r 1,2
