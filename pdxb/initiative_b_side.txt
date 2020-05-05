@@ -4,11 +4,15 @@ Spike 21
 
 death save: s,
 
-Alex 17 hp -2
+Alex 17 hp 3
 
-death saves: s,f
+death saves: s,f,s
+
+Aldhelmus 17
 
 Anders 16
+
+Rufus 16
 
 Brigand 3/4 15
 
@@ -30,13 +34,13 @@ Phalanx(stable) 12 hp 3/10
 
 Brigand 1/2 11
 
-B1 hp 5
-B2 hp 7
+B1 hp 5 (dead)
+B2 hp 7 (dead)
 
 Captain 1/2 8
 
 C1 hp -5 hp (dead)
-C2 hp 4
+C2 hp 1
 
 Warish 5
 
@@ -46,4 +50,4 @@ Ilyana 4 hp 6/10
 Venvir 2
 
 
-round: 8
+round: 9
