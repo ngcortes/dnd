@@ -1,53 +1,56 @@
-initiative tracker
+surprised
 
-Spike 21
+marlo by bandits
+venvir by bandits
 
-death save: s,
-
-Alex 17 hp 3
-
-death saves: s,f,s
-
-Aldhelmus 17
-
-Anders 16
-
-Rufus 16
-
-Brigand 3/4 15
-
-B3: dead
-B4: dead
-
-Pluck(sleeping) 14 hp 20/20
-
-sleep rounds: 4
-
-Lareth 14 AC 17 hp 38
-
-spells 
-
-lvl 1 1/3
-lvl 2 1/3
-
-Phalanx(stable) 12 hp 3/10
-
-Brigand 1/2 11
-
-B1 hp 5 (dead)
-B2 hp 7 (dead)
-
-Captain 1/2 8
-
-C1 hp -5 hp (dead)
-C2 hp 1
-
-Warish 5
-
-Ilyana 4 hp 6/10
+bandits by spike
 
 
-Venvir 2
 
+initiative 
 
-round: 9
+(bandit AC 13)
+
+spike 22
+
+anders 20
+
+b 7/8 (in brush on perimeter) 20
+
+b7 hp 0/11 (dead) molotov lobbed (r2, burns till r7) 1d4 anybody in flames
+b8 hp 0/11 (dead)
+
+aldelmus 19
+
+gethias 18
+
+sorrel 16
+
+b3/4 (in tree) 15
+
+b3 hp 3/11
+b4 hp 1/11 (molotov started r1, ends r3)
+
+marlo 14
+
+venvir 13
+
+b1/b2 (in tree) 13
+
+b1(dead)
+b2 hp 3 (asleep)
+
+b5/6 (in brush on perimeter) 11
+
+b5 dead
+b6 dead
+
+warish 9
+
+berserker (in brush on perimeter) 9
+
+berserker hp 0/67 (dead)
+
+b9,10 (arrow slits at base of tower)
+
+r 1,2,3

@@ -2,19 +2,24 @@ Days till tavern is lost: 1
 Secomber reputation: PCs known to be working with Alessandra
 (deceased) Lecrux reputation: PCs are known to be back at large.
 Bandits reputation: Fear the PCs, but vengeful of their attack in misty forest
-Mayor of Secomber (Traskar) reputation: bit of an annoyance, but a necessary one. Proven their worth.
+Mayor of Secomber (Traskar) reputation: saviors of the town. Proven their worth.
 
 PCs
 Adger: halfling bloodhunter - has debts to pay
 Ildas: halfelf druid
-Slyvanias Distrae: halfelf warlock of the raven queen
-Anders greenbottle: halfling rogue
 Gurd: goblin artificer, hails from Eberron, a strange land
 Justice: assimar barb, wishes to atone for perceived bad deeds he committed long ago.
 Agries: human wizard
-Tomas Kin: human ranger
 Esther: human wizard
-zanzibar: gnome barbarian
+zanzibar: gnome barbarian (next wis save won't work to resist lycanthropy)
+Morndo: halfling rogue
+Tipwim: gnome, cleric of grave domain (char sheet in downloads)
+
+
+Past PCs:
+Slyvanias Distrae: halfelf warlock of the raven queen
+Anders greenbottle: halfling rogue
+Tomas Kin: human ranger
 georgie: half-orc pally of tempest
 
 NPCs I forget...
@@ -26,28 +31,26 @@ Chuck: derval's friend, shows party the silver cavern on the delimbyr
 diana: assistant to traskar
 uther: halfling fisherman, deceased
 imoen, human seamstress, owned business, deceased
-obrien: captain of secomber guard
+obrien: captain of secomber town guard
 Dawn: PI from Daggerford, trusted, but ornery.
 
-agries; sublet her quarters in daggerford
-
-4 silver ore chunks left
-
+phobo - hp 24
+  CN lore bard 4
+  spells:
+  0th: mage hand, mending, prestidigitation
+  1st: (4/4) cure wounds, charm person, disguise self, heroism, long strider
+  2nd: (3/3) invisibility, knock
 
 Notes:
 
 - one of Lecrux's wererat minions got away.
 - zanzabar infected with wererat lycanthropy
-- party receives 700 gp, +1 longsword (vesalius, owned previously by Ricard of Secomber), amulet of    protection (+1 AC), lecrux's grimoire, lecrux's amulet
+- party receives 700 gp, +1 longsword (vesalius, owned previously by Ricard of Secomber), amulet of protection (+1 AC), lecrux's grimoire, lecrux's amulet
+- agries; sublet her quarters in daggerford
 
 Current events:
-- Phobo has fled to Daggerford
-- Ricard gives key to the house to the party  
-- alessandra knows that the party suspects Phobo
-- The party will likely give chase to Phobo into Daggerford, in search of the stolen money. They've only got a day, so they'll need to act quickly. They are told that they will need to get the gold to the coin repository for a writ of intent, then bring that writ of intent to the landlord who resides at the guildhall across town.
-  - Of course the party could dig into their own pockets to complete the transaction then search for the gold without the time pressure. But there's no guarantee that the gold will turn up.
-  - The party will need to find "Salamander", then find where they are going to meet Phobo. Phobo's notebook has some clues to that point (give the party a map of Daggerford):
-    - "I shall arrive at the House of Tymora... for a dram of dragon's breath. Hoho!" (Arrive at the Lady Luck tavern, order a dram of dragon's breath liquor. that's the first signal)
-    - "That Alessandra drives me up the wall sometimes! She treats me like a lowly tiller, when she should treat me like Pwyll himself! And you can take that to the blacksmith!" (Follow wall street, take it up to farmer's road, then to Duke's way, then stop at Wayfel's smithy.)
-    - "They'll ask me a question whose answer I don't agree with. Hmph!" If all steps are follow correctly, Sala and Mandy will arrive with the money. They will be suspicious of the party. If the party will need to answer the final challenge: "Who's more lowly than Tiamat?" (Answer: Phobo) The party may have to fight the two thieves if it comes down to it.
-    - The party can then rush back and get the money to the landlord. With that it will be a job well done!
+- The party has found Phobo and the thieves he was in league with, Sally and Mandy. The fight has begun.
+- Sally has signaled here fellow thieves to aid her in bringing down the party.
+- Esther, et al have taken Mandy to an on-duty guard. The guard informs them that they will need to hold out for a minute or so while he informs the militia captain. 
+- keep Sally and her cohorts occupied for 11 rounds of combat for the guards to arrive and arrest them. The party will receive a nice bounty if they can bring down any thieves non lethally (100gp each who are alive, 50gp each for deceased).
+- If Sally is taken in, Phobo will be implicated in conspiracy against Ricard and Alessandra (stealing their funds, receiving a cut). Phobo refuses to spill any beans about Nehelam, so he is sentenced to several years of hard time.

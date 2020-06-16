@@ -1,34 +1,67 @@
-(dead)penelope: 21 hp 7
+Militia 22 Captain hp 40/40
+Agrias 20 - free from web
+Esther 18 (web hp 5/5)
 
-justice: 20 
+16 phobo - hp 24/24 web hp (10/10)
+  CN lore bard 4
+  spells:
+  0th: mage hand, mending, prestidigitation
+  1st: (4/4) cure wounds, charm person, disguise self, heroism, long strider
+  2nd: (3/3) invisibility, knock
 
+Justice 14
 
-wererat4(weak)(deceased): 19 hp 0
+Derval 14 hp 0/34 - free from web
 
-agrias: 16
+Adger 13
 
-derval: 15 hp 16/20
+Tipwim 10 (char sheet in downloads)
 
-(dead) wererat3(weak): 16 hp 0
-wererat5: 15 hp 4 AC 15 (advanced wererat) 
-wererat6: 15 hp 29
+Zanzabar 9
 
-esther: 12
+Morndo 9
 
+Ome 6 hp 12/32
 
-guerd: 10
+Nehelam 4 27/100 hp
+  - all parts of the scorpion are resistant to all mundane damage types (except nehelam, who's vulnerable) 
+  - 2 more potions of cure moderate wounds(2d8 + 2 hp)
+  - any successful hit to an arm disables it for the round
+  - a hit to the undercarriage cancels any movement for the scorpion for the round
+  - reactions
+    - each arm gets its own opportunity attack chance
+  - actions
+    - can use any arms that are remaining on turn
+    - can instead quaff a potion to heal
+  - armament
+    - a hit to nehelam causes a frenzy (50% chance)
+    - 2 greatsword arms
+    - 2 heavy crossbow arms
+    - 1 tail with a wand of magic missiles built into it
+  
+Larsen 4 hp 19/32
+Guerd 3
+Caruso 3 hp 32/32
+Ildas 2 web hp (7/10)
 
-lecrux: 10 hp 2 AC 15
- slots (1st level) 0/3
+r 1,
 
-adger: 9, AC 16, HP 12/20, +3 Initiative, +5 to hit 1d8+3
-  - -6 silvered arrow
+================================
 
+AC 17 for thugs
 
-zanzabar: 6
+north side:
 
+caruso: hp 32/32
 
-wererat1(weak) (deceased): 5 hp 1
-wererat2(weak)(deceased): 3 hp 3 (speed -10 till round 3)
+ome: hp 12/32
 
-r 1,2,3,4,5,6
+south side:
+
+Larsen: hp 13/32
+
+derval: 4/20hp
+
+nehelam 27/100 hp 
+all parts of the scorpion are resistant to all mundane damage types (except nehelam, who's vulnerable) 2 more potions of cure moderate wounds(2d8 + 2 hp)
+
