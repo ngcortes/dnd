@@ -1,67 +1,30 @@
-Militia 22 Captain hp 40/40
-Agrias 20 - free from web
-Esther 18 (web hp 5/5)
-
-16 phobo - hp 24/24 web hp (10/10)
-  CN lore bard 4
-  spells:
-  0th: mage hand, mending, prestidigitation
-  1st: (4/4) cure wounds, charm person, disguise self, heroism, long strider
-  2nd: (3/3) invisibility, knock
-
-Justice 14
-
-Derval 14 hp 0/34 - free from web
-
-Adger 13
-
-Tipwim 10 (char sheet in downloads)
-
-Zanzabar 9
-
-Morndo 9
-
-Ome 6 hp 12/32
-
-Nehelam 4 27/100 hp
-  - all parts of the scorpion are resistant to all mundane damage types (except nehelam, who's vulnerable) 
-  - 2 more potions of cure moderate wounds(2d8 + 2 hp)
-  - any successful hit to an arm disables it for the round
-  - a hit to the undercarriage cancels any movement for the scorpion for the round
-  - reactions
-    - each arm gets its own opportunity attack chance
-  - actions
-    - can use any arms that are remaining on turn
-    - can instead quaff a potion to heal
-  - armament
-    - a hit to nehelam causes a frenzy (50% chance)
-    - 2 greatsword arms
-    - 2 heavy crossbow arms
-    - 1 tail with a wand of magic missiles built into it
+(dead) zombie mandy(prone, tasha's laugh r1): 20 0/50 hp
   
-Larsen 4 hp 19/32
-Guerd 3
-Caruso 3 hp 32/32
-Ildas 2 web hp (7/10)
+adger: 19
 
-r 1,
+justice (charmed by phobo r1): 17
 
-================================
+esther (moves along perimeter of room): 16
+zanzabar: 16  
 
-AC 17 for thugs
+morndo: 15
 
-north side:
+(dead) zombie sally: 14 hp 0/50 hp
 
-caruso: hp 32/32
+agrias: 12: hp 5
 
-ome: hp 12/32
+1/4 1st level
 
-south side:
+(dead) zombie phobo: 12 0/60 hp
 
-Larsen: hp 13/32
+2/4 1st level left
+ 
+zombie nehelam: 8 1/100 hp
 
-derval: 4/20hp
+petunia: 5 
 
-nehelam 27/100 hp 
-all parts of the scorpion are resistant to all mundane damage types (except nehelam, who's vulnerable) 2 more potions of cure moderate wounds(2d8 + 2 hp)
+Ber: 3
 
+ildas: 1
+
+r1,2,3,4,5

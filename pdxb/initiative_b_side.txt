@@ -1,56 +1,34 @@
-surprised
+======================> start here
 
-marlo by bandits
-venvir by bandits
+edward: 22
 
-bandits by spike
+foobius: 21
 
+elmo: 19 (heroism r1, 1 minute, bardic inspiration d6) hp 20/20 + 15temp
 
+tiel: 16
 
-initiative 
+skellies: 15
 
-(bandit AC 13)
+s1: hp 10/67 hp
 
-spike 22
+s2: hp 49/67 hp
 
-anders 20
+gythius: 13
 
-b 7/8 (in brush on perimeter) 20
+omelet: 12
 
-b7 hp 0/11 (dead) molotov lobbed (r2, burns till r7) 1d4 anybody in flames
-b8 hp 0/11 (dead)
+venvir: 8
 
-aldelmus 19
+zombies(3): 6
 
-gethias 18
+(dead) z1: hp 022
 
-sorrel 16
+(dead)z2: hp 0/22
 
-b3/4 (in tree) 15
+(dead) z3: hp 0/22
 
-b3 hp 3/11
-b4 hp 1/11 (molotov started r1, ends r3)
+(dead) O1: 1 hp 0/59
 
-marlo 14
-
-venvir 13
-
-b1/b2 (in tree) 13
-
-b1(dead)
-b2 hp 3 (asleep)
-
-b5/6 (in brush on perimeter) 11
-
-b5 dead
-b6 dead
-
-warish 9
-
-berserker (in brush on perimeter) 9
-
-berserker hp 0/67 (dead)
-
-b9,10 (arrow slits at base of tower)
-
-r 1,2,3
+O2(next atk has adv. r4): 2 29/67 hp
+r:1,2,3,4,5
