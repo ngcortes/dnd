@@ -1,26 +1,24 @@
-======================> start here
-
-edward: 22
-
 foobius: 21
 
-elmo: 19 (heroism r1, 1 minute, bardic inspiration d6) hp 20/20 + 15temp
+elmo: 19 (heroism r1, 1 minute, bardic inspiration d6) hp 14/20
 
 tiel: 16
 
 skellies: 15
 
-s1: hp 10/67 hp
+(dead) s1: hp 0/67 hp
 
-s2: hp 49/67 hp
+s2: hp 29/67 hp
 
 gythius: 13
 
 omelet: 12
 
+davin: 12
+
 venvir: 8
 
-zombies(3): 6
+(all dead) zombies(3): 6
 
 (dead) z1: hp 022
 
@@ -30,5 +28,37 @@ zombies(3): 6
 
 (dead) O1: 1 hp 0/59
 
-O2(next atk has adv. r4): 2 29/67 hp
-r:1,2,3,4,5
+(dead) O2(next atk has disadv. r6): 2 0/67 hp
+r:1,2,3,4,5,6
+
+============================
+
+gethias 22
+
+foobius 20
+
+teil 19
+
+omelet(hold person r1) 16
+
+(dead) fanatic2 15 hp 0/33 
+
+- 2/3 2nd
+
+davin 13
+
+fanatic1 9 hp 0/33
+
+- 3/4 1st
+
+mage 8 hp 24/40 (greater invisibility)
+
+- 2/3 4th
+
+venvir 8
+
+elmo 4
+
+r 1,2,3
+
+g cube: 74 hp
