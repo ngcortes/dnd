@@ -89,5 +89,7 @@ what's happening:
 - half of party down in battlefield attempting to get horn of blasting of melandrach's belt
 - other half in cavern fighting gwidion. gwidion has revealed himself from the stolen invisibility ring that he stole from lady bronwyn. He will cast a spell to isolate himself and Ber and challenge him to a duel.
 
-gwidion 38/50 hp
+gwidion 18/50 hp
+
+goblinoid damage sustained: 169
 
