@@ -1,0 +1,122 @@
+;; This buffer is for text that is not saved, and for Lisp evaluation.
+;; To create a file, visit it with C-x C-f and enter text in its buffer.
+
+The Fundamentals of DMing
+
+Things I want out of D&D games I run (how do I achieve them?):
+====================================================================================
+- have a session 0.5
+ - I don't want to spend the entire first session making characters. people came to play D&D... so let's play!
+ - spend half the first session making PCs, and the latter half starting the game. maybe give an extra half hour or so.
+====================================================================================
+- being beginner friendly
+ - never played before? what kind of character do you play in an RPG video game?
+ - make or use a cheat sheet for new players
+ - if unsure about a character concept, talk with the other players or the DM
+ - does it makes sense for this character to be in an adventuring party?
+ - cliche is a good thing. use it, then make it your own.
+ - set expectations for PC behavior
+  - know your role in the party (can I heal my fellow party members? what am I good at / bad at?)
+  - PCs should tend to favor the party's motivations over their own
+   - don't steal from other PCs
+   - don't try to fight or kill other PCs without
+   - don't ignore the party when they need you (healing, solving a puzzle, etc)
+   - if splitting off from party for own purposes, keep it brief.
+   - do ask what would my character do? ... and would that harm the party?
+ - be encouraging if there are experienced players in the party
+  - put the spotlight on them on their first session for a bit.
+  - give them a worthy intro to the party if they don't have something they don't already have one.
+  - let them introduce their character, but keep the intro brief. they'll talk with you directly if they want to add detail.
+ - allowing the party to be split, but facilitating keeping the party together
+====================================================================================
+- A balance of gameplay types: social interaction, exploration, puzzle solving, combat
+ - try to have 1 type of each gameplay at least every other session
+ - find what your players like and be flexible.
+====================================================================================
+- rated PG-13 to soft R (think a marvel movie, Indiana Jones, bond flick, etc)
+ - cartoon violence good... but this ain't a horror movie
+ - sex can be awkward, uncomfortable, and triggering. don't get too steamy and read the room.
+ - use swearing sparingly or not at all (if there are kids at the table), or make some cursewords up!
+====================================================================================
+- running in a published setting (Grehawk, Forgotten Realms, etc)
+ - i'm not a big world builder. no judgement for using an established world! (but no judgement otherwise either)
+ - pros of using an established world
+  - players can actually read up on the world independently to make a character, etc
+  - a lot less brain power to read than to write (for the DM)
+  - tons of adventures in the setting, can use them without heavy modification
+  - if there's something you don't like you can change it.
+ - cons of using established world
+  - it's not your world... you don't have as much control of what happened or is happening in it
+  - if you do change something it can feel inconsistent for the players
+====================================================================================
+- light campaign planning
+ - we're busy people... don't burn yourself out by writing a novel. (you don't need to write one to run a good game)
+ - do plan more if you're just starting out. over time you will be able to draw on your memory more than the stuff you wrote down.
+ - random tables and percentile dice are your friends. make your own if you need to but you can probaby find some that are good enough.
+  - https://donjon.bin.sh/ is a great resource
+====================================================================================
+- using off the cuff ideas mid game
+ - if a play asks something about the world or environment you don't know, roll percentile dice :)
+ - if you have a suddenly really cool, crazy idea that seems like it would work, it probably will. do it.
+====================================================================================
+- using adventure modules and campaign books as a rough guidelines
+====================================================================================
+- rules as guidelines
+ - favoring game speed to rules accuracy
+ - making good judgement calls when you don't know the rules
+====================================================================================
+- not taking the game too seriously, but taking it seriously enough
+ - character death is something that people take very seriously... don't take it too lightly.
+ - encourage metagaming. there I said it. wanna look something up during the game? do it.
+  - discourage behavior that would give a PC a particularly unfair advantage.
+   - no reading ahead in an adventure module.
+====================================================================================
+- regular communication with and feedback from players
+ - is the game progressing at a good pace?
+ - is anybody / anything making people (or you) uncomfortable?
+ - is the gameplay... fun? is there something you want to see more or less of?
+ - talk 1:1 about backstory, future plans, etc with each player. it makes each player feel special
+  - this really adds to the experience. even simple things like describing what a weapon looks like goes a long way.
+====================================================================================
+- evoking an emotional response from the players
+ - pace the game effectively
+  - keep dramatic tension when needed... but give players a break in between
+   - dramatic tension is making the players feel rushed, stressed, or otherwise in anticipation of something happening
+  - try not to run 2 encounters of the same kind back to back... for the most part.
+  - drip feed characteristics of your NPCs... they'll feel more dynamic.
+ - making PCs feel like they're a part of the world
+  - communicate regularly on backstory
+  - incorporate backstory into the game
+  - ask offline about backstory if you want to do something. get consent.
+ - creating memorable and recurring characters
+  - ask what would this character do? will it make a party member or members react in a particular way?
+  - cliche is a good thing. use it, then manipulate it.
+====================================================================================
+- less is more
+ - legendary magic items should be rare
+====================================================================================
+- make combat fun
+ - use the environment
+ - look at each monster's special attacks, strengths, and weaknesses. and plan in their favor.
+  - eg. if a monster has bonuses for fighting in a pack, pick other monsters of the same kind that will complement that ability.
+ - have a central theme
+  - could be 1 powerful 'boss' monster and several weaker monsters
+  - countdown to some event (falling ceiling, defend something or someone for a number of rounds, etc)
+ - run combat as quickly and efficiently as possible
+  - keep talking between characters to a minimum
+  - give time to strategize, but have a limit of maybe 2 to 3 minutes
+ - give a good amount of mega knowledge to allow strategy and tactics
+  - show the initiative to the players
+  - show enemy HP to the players
+  - show status effects / ongoing spells to the players
+  - you won't have to explain as much to the players as things happen. All the info is right there.
+====================================================================================
+- leave players wanting more
+ - 3 hour games (keep things brief, but long enough to progress story / characters, encounters)
+====================================================================================
+- consistent and regular PC progression
+ - use a table to dole out XP and to set up encounters. try to level up every ~2 or 3 sessions
+ - if unsure, giving too much XP is better than not giving enough.
+ - keep the game challenging but fun
+  - increase level of magic as PCs level up
+  - make consequences of actions (not just combat) more serious as PCs level up
