@@ -1,6 +1,6 @@
 The Fundamentals of DMing
 
-Things I want out of D&D games I run (how do I achieve them?):
+Things I want out of D&D games I run (how do I achieve them?... assuming we're talking 5e dnd):
 ====================================================================================
 - have a session 0.5
  - I don't want to spend the entire first session making characters. people came to play D&D... so let's play!
@@ -10,15 +10,17 @@ Things I want out of D&D games I run (how do I achieve them?):
   - eg. if somebody wants to deal lots of damage, recommend spells accordingly.
  - probably just default to standard point buy. these days players rarely want to roll for stats.
  - default to picking equipment packs instead of buying with gold. faster and people rarely choose the latter option
+ - if somebody really wants to spend time on making their character, do it before session 0.5.
 ====================================================================================
 - being beginner friendly
  - never played before? what kind of character do you play in an RPG video game?
   - or what kind of character would you want to be in a movie, book, TV show you like?
   - this is usually a pretty effective question for class and race somebody would like to play.
  - make or use a cheat sheet for new players
- - if unsure about a character concept, talk with the other players or the DM
+ - if player is unsure about a character concept, talk with the other players or the DM
  - does it makes sense for this character to be in an adventuring party?
  - cliche is a good thing. use it, then make it your own.
+  - eg. maybe somebody wants to be luke skywalker. start with that, but edit it to fit the party comp, setting, etc.
  - set expectations for PC behavior
   - know your role in the party (can I heal my fellow party members? what am I good at / bad at?)
   - PCs should tend to favor the party's motivations over their own
@@ -27,18 +29,24 @@ Things I want out of D&D games I run (how do I achieve them?):
    - don't ignore the party when they need you (healing, solving a puzzle, etc)
    - if splitting off from party for own purposes, keep it brief.
    - do ask what would my character do? ... and would that harm the party?
+   - these tenets can be broken only if express permission is granted by the affected person(s)
  - be encouraging if there are experienced players in the party
   - put the spotlight on them on their first session for a bit.
   - give them a worthy intro to the party if they don't have something they don't already have one.
   - let them introduce their character, but keep the intro brief. they'll talk with you directly if they want to add detail.
  - allowing the party to be split, but facilitating keeping the party together
+  - by and large d&d is a group effort. if people want to split up it's generally not a great idea, but there are exceptions
+   - somebody may want to scout ahead (probably the rogue/thief)
+   - a PC may have a personal matter they need to attend to
+   - the party may want to shop in a town or city
 ====================================================================================
 - A balance of gameplay types: social interaction, exploration, puzzle solving, combat
  - try to have 1 type of each gameplay at least every other session
  - find what your players like and be flexible.
+ - if you prefer one to another, still include the others. the game will feel unbalanced otherwise.
 ====================================================================================
 - give the PCs something to do (don't run a sandbox unless it's a group of experienced and self motivated players)
- - a clear goal or conflict goes a long way to get people into the game.
+  - a clear goal or conflict goes a long way to get people into the game.
 ====================================================================================
 - rated PG-13 to soft R (think a marvel movie, Indiana Jones, bond flick, etc)
  - cartoon violence good... but this ain't a horror movie
@@ -63,8 +71,13 @@ Things I want out of D&D games I run (how do I achieve them?):
   - https://donjon.bin.sh/ is a great resource
 ====================================================================================
 - using off the cuff ideas mid game
- - if a play asks something about the world or environment you don't know, roll percentile dice :)
+ - if a player asks something about the world or environment you don't know, roll percentile dice :)
+  - use percentile dice when there is a thing about the environment that is entirely left up to random chance.
+    consider how likely something is, then roll percentile dice to decide whether that thing is true.
+    - eg. is this door locked? the door is a room at an inn so probably... 80% chance it is. roll the dice to find out.
+    - you can use this method in general so you don't have to write down as much.
  - if you have a suddenly really cool, crazy idea that seems like it would work, it probably will. do it.
+  - I once had a wheelchair-bound villain and decided at the last second that he'd turn it into a mecha scorpion. best. fight. ever.
 ====================================================================================
 - using adventure modules and campaign books as a rough guidelines
 ====================================================================================
@@ -105,6 +118,10 @@ Things I want out of D&D games I run (how do I achieve them?):
 ====================================================================================
 - make combat fun
  - use the environment
+  - who has the terrain advantage? players or opponents?
+   - terrain advantage can include elevation, cover, concealment, etc.
+  - are there things in the environment you can use?
+   - powder kegs that explode, bodies of water, rotting floorboards, traps that can be sprung...
  - look at each monster's special attacks, strengths, and weaknesses. and plan in their favor.
   - eg. if a monster has bonuses for fighting in a pack, pick other monsters of the same kind that will complement that ability.
  - have a central theme
@@ -128,3 +145,9 @@ Things I want out of D&D games I run (how do I achieve them?):
  - keep the game challenging but fun
   - increase level of magic as PCs level up
   - make consequences of actions (not just combat) more serious as PCs level up
+====================================================================================
+- resolve PC actions in a sane and fair way
+ - use the 'bounded accuracy' of 5e to your advantage (see https://theangrygm.com/marvelous-mechanical-miscellany/)
+  - eg. difficulty of a skill or ability check is as follows: 10 means average, 15 pretty hard, 20 very hard, 25 thank you for playing
+ - if somebody is going to just keep trying a skill/ability check... make something happen to hinder them
+  - eg. I want to climb this wall. if I fail I'm just going to try again... eventually somebody or something is going to notice you.
