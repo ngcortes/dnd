@@ -1,6 +1,3 @@
-;; This buffer is for text that is not saved, and for Lisp evaluation.
-;; To create a file, visit it with C-x C-f and enter text in its buffer.
-
 The Fundamentals of DMing
 
 Things I want out of D&D games I run (how do I achieve them?):
@@ -8,9 +5,16 @@ Things I want out of D&D games I run (how do I achieve them?):
 - have a session 0.5
  - I don't want to spend the entire first session making characters. people came to play D&D... so let's play!
  - spend half the first session making PCs, and the latter half starting the game. maybe give an extra half hour or so.
+ - practice making a character yourself before starting the game. try to get the process down as quickly as possible.
+ - spellcasters are going to take longer because of picking spells. make recommendations, but try not to be too pushy.
+  - eg. if somebody wants to deal lots of damage, recommend spells accordingly.
+ - probably just default to standard point buy. these days players rarely want to roll for stats.
+ - default to picking equipment packs instead of buying with gold. faster and people rarely choose the latter option
 ====================================================================================
 - being beginner friendly
  - never played before? what kind of character do you play in an RPG video game?
+  - or what kind of character would you want to be in a movie, book, TV show you like?
+  - this is usually a pretty effective question for class and race somebody would like to play.
  - make or use a cheat sheet for new players
  - if unsure about a character concept, talk with the other players or the DM
  - does it makes sense for this character to be in an adventuring party?
@@ -32,6 +36,9 @@ Things I want out of D&D games I run (how do I achieve them?):
 - A balance of gameplay types: social interaction, exploration, puzzle solving, combat
  - try to have 1 type of each gameplay at least every other session
  - find what your players like and be flexible.
+====================================================================================
+- give the PCs something to do (don't run a sandbox unless it's a group of experienced and self motivated players)
+ - a clear goal or conflict goes a long way to get people into the game.
 ====================================================================================
 - rated PG-13 to soft R (think a marvel movie, Indiana Jones, bond flick, etc)
  - cartoon violence good... but this ain't a horror movie
@@ -84,6 +91,7 @@ Things I want out of D&D games I run (how do I achieve them?):
    - dramatic tension is making the players feel rushed, stressed, or otherwise in anticipation of something happening
   - try not to run 2 encounters of the same kind back to back... for the most part.
   - drip feed characteristics of your NPCs... they'll feel more dynamic.
+  - keep plot arcs to maybe 3 to 4 sessions. 5 is on the long side.
  - making PCs feel like they're a part of the world
   - communicate regularly on backstory
   - incorporate backstory into the game
