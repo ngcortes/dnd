@@ -21,6 +21,7 @@ Things I want out of D&D games I run (how do I achieve them?... assuming we're t
  - does it makes sense for this character to be in an adventuring party?
  - cliche is a good thing. use it, then make it your own.
   - eg. maybe somebody wants to be luke skywalker. start with that, but edit it to fit the party comp, setting, etc.
++====================================================================================
  - set expectations for PC behavior
   - it's okay to rely on your players for some things
    - keeping track of events and NPC/organzation relationships
@@ -39,11 +40,13 @@ Things I want out of D&D games I run (how do I achieve them?... assuming we're t
    - do ask what would my character do? ... and would that harm the party? If yes to the latter, maybe don't do it.
    - these tenets can be broken only if express permission is granted by the affected person(s). Communication
      away from the game table is critical for these kinds of interactions.
++====================================================================================
  - be encouraging if there are experienced players in the party
   - put the spotlight on the newcomer on their first session for a bit.
   - give them a worthy intro to the party if they don't already have one.
   - let them introduce their character, but keep the intro brief (1 to 2 sentences). they'll talk with you directly if they want to add detail.
    - I'd start with 1 to 2 things somebody would notice about your character if you walked into a room
++====================================================================================
  - allowing the party to be split, but facilitating keeping the party together
   - by and large d&d is a group effort, but the party will invariably want to split up on a regular basis.
    - somebody may want to scout ahead (probably the rogue/thief)
@@ -53,6 +56,7 @@ Things I want out of D&D games I run (how do I achieve them?... assuming we're t
      and try to find a convenient or dramatic stopping point when you switch to a different group.
     - eg. one character wants to interrogate an npc, a few others want to scout a dungeon before entering, another wants to shop.
       spend a few minutes on each, just enough time that the story progresses little by little.
++====================================================================================
  - not taking the game too seriously, but taking it seriously enough
   - character death is something that people take very seriously... don't take it too lightly.
   - encourage metagaming. there I said it. wanna look something up during the game? do it, but don't take more than 1 or 2 minutes.
@@ -75,6 +79,7 @@ Things I want out of D&D games I run (how do I achieve them?... assuming we're t
     of being brief and high level (eg. the door slams shut as the two of you get down to business, etc)
   - use swearing sparingly or not at all (if there are kids at the table), or make some cursewords up!
   - this makes for a more accessible and approachable game. you can usually appeal to a wider audience.
++====================================================================================
  - running in a published setting (Grehawk, Forgotten Realms, etc)
   - i'm not a big world builder. no judgement for using an established world! (but no judgement otherwise either)
   - pros of using an established world
@@ -143,6 +148,7 @@ Things I want out of D&D games I run (how do I achieve them?... assuming we're t
   - this really adds to the experience. even simple things like describing what a weapon looks like goes a long way.
 ====================================================================================
 - evoking an emotional response from the players
++====================================================================================
  - pace the game effectively
   - keep dramatic tension when needed... but give players a break in between
    - dramatic tension is making the players feel rushed, stressed, or otherwise in anticipation of something happening
@@ -162,10 +168,11 @@ Things I want out of D&D games I run (how do I achieve them?... assuming we're t
       trivialize certain encounters.
      - eg. the spell feather fall pretty much makes pit traps and the like very easily thwarted. don't use them
        without careful consideration.
- - consistent and regular PC progression
-  - use a table to dole out XP and to set up encounters. try to level up every ~2 or 3 sessions
-   - here's a rough table up to level ~10 I wrote: https://github.com/ngcortes/dnd/blob/master/experience_progress_table
-  - if unsure, giving too much XP is better than not giving enough.
+  - consistent and regular PC progression
+   - use a table to dole out XP and to set up encounters. try to level up every ~2 or 3 sessions
+    - here's a rough table up to level ~10 I wrote: https://github.com/ngcortes/dnd/blob/master/experience_progress_table
+   - if unsure, giving too much XP is better than not giving enough.
++====================================================================================
   - keep the game challenging but fun
    - increase level of magic as PCs level up
    - make consequences of actions (not just combat) more serious as PCs level up
@@ -181,6 +188,7 @@ Things I want out of D&D games I run (how do I achieve them?... assuming we're t
     the PCs got stronger and can more easily deal with that adversity.
   - good article on 'tiers of play' part 1: https://theangrygm.com/f-cr-theres-a-better-way-part-1/
     and part 2: https://theangrygm.com/f-cr-theres-a-better-way-part-2/
++====================================================================================
  - fudge dice rolls. there I said it. don't show the players any rolls you make.
   - the dice you use as a DM are suggestions for how a scenario will play out. you have the final say.
    - read how people are reacting at the table, think about...
@@ -221,7 +229,6 @@ Things I want out of D&D games I run (how do I achieve them?... assuming we're t
  - 3 hour games (keep things brief, but long enough to progress story / characters, encounters)
  - in general try to end on a cliffhanger or tense moment, unless an adventure or story arc has just ended,
    in which case a resolute ending would probably be better.
-====================================================================================
 ====================================================================================
 - resolve PC actions in a sane and fair way
  - use the 'bounded accuracy' of 5e to your advantage (see https://theangrygm.com/marvelous-mechanical-miscellany/)
