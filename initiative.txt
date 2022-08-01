@@ -1,0 +1,45 @@
+;; This buffer is for text that is not saved, and for Lisp evaluation.
+;; To create a file, visit it with C-x C-f and enter text in its buffer.
+
+R1,2
+
+
+Brinir 19
+Petunia 19
+
+DEAD T1 13 -10/84
+
+Sentinel 11
+
+
+Welfie 11
+
+Justice 9
+
+DEAD T2 5 -7/84
+
+
+2 basilisks
+2 trolls
+
+-------
+
+R1
+
+S1 23 78/93
+
+Justice 17
+
+
+Petunia 12
+
+
+
+Esther 2
+
+S2 3 80/93
+
+Brinir 2
+
+-------
+Pirate Captain 34/60
